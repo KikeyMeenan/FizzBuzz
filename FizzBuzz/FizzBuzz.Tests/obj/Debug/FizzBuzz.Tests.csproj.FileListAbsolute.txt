@@ -1,0 +1,6 @@
+\\dtlfile4\home\michael.keenan\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+\\dtlfile4\home\michael.keenan\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+\\dtlfile4\home\michael.keenan\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\dtlfile4\home\michael.keenan\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+\\dtlfile4\home\michael.keenan\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+\\dtlfile4\home\michael.keenan\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
